@@ -40,6 +40,8 @@
     person.run2();
     person.run3().eat3().run3().eat3();
     
+    NSLog(@"我是为了测试sourceTree切换旧的版本才搞出来的额");
+    
     person.eat4(@"麻辣火锅").run4(4).eat4(@"黄焖鸡米饭").run4(10);
 }
 
