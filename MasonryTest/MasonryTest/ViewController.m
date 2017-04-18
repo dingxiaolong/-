@@ -43,6 +43,7 @@
     NSLog(@"我是为了测试sourceTree切换旧的版本才搞出来的额");
     
     NSLog(@"不切除新的分支看看能不能检出来这个呢,🙃和");
+    NSLog(@"hehehe");
 
     
     person.eat4(@"麻辣火锅").run4(4).eat4(@"黄焖鸡米饭").run4(10);
