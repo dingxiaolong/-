@@ -13,6 +13,10 @@
 - (void)eat;
 - (void)run;
 
+- (int)text;
+
+- (void)text1;
+
 - (Person *)eat1;
 - (Person *)run1;
 

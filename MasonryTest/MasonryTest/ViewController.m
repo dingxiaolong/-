@@ -32,6 +32,13 @@
         make.width.height.equalTo(200);
     }];
     Person *person = [[Person alloc] init];
+    int num = person.text;
+    NSLog(@"%d",num);
+    
+    person.text1;
+    
+    
+//    person.eat3;
     [person.eat1 eat];
     [[person run1] eat1];
     [person eat];

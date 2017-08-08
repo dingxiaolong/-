@@ -10,6 +10,15 @@
 
 @implementation Person
 
+
+- (int)text {
+    return 1;
+}
+
+- (void)text1 {
+    NSLog(@"我是测得text1");
+}
+
 - (void)eat {
     NSLog(@"人在吃");
 }
