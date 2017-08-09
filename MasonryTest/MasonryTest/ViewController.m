@@ -59,6 +59,9 @@
 
     
     person.eat4(@"麻辣火锅").run4(4).eat4(@"黄焖鸡米饭").run4(10);
+    
+    NSLog(@"测试三星的东西吗");
+    
 }
 
 - (void)didReceiveMemoryWarning {
